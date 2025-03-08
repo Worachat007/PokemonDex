@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PokemonDex1.0.2/1.0.0": {
+        "runtime": {
+          "PokemonDex1.0.2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PokemonDex1.0.2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
